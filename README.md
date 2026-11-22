@@ -67,9 +67,9 @@
 
 ## 📸 Скриншоты
 
-| Логин | Главная | Избранное | Создание | Фильтры | Поиск | Подробная информация |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Логин](screenshots/login.jpg) | ![Главная](screenshots/main.jpg) | ![Избранное](screenshots/favourite.jpg) | ![Создание](screenshots/create.jpg) | ![Фильтры](screenshots/filter.jpg) | ![Поиск](screenshots/search.jpg) | ![Подробная информация](screenshots/info.jpg) |
+| Логин | Главная | Избранное | Создание | Фильтры | Поиск | Подробная информация | Push уведомление |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Логин](screenshots/login.jpg) | ![Главная](screenshots/main.jpg) | ![Избранное](screenshots/favourite.jpg) | ![Создание](screenshots/create.jpg) | ![Фильтры](screenshots/filter.jpg) | ![Поиск](screenshots/search.jpg) | ![Подробная информация](screenshots/info.jpg) | ![Push уведомление](screenshots/push.jpg) |
 
 ---
 
