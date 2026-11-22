@@ -65,11 +65,13 @@
 
 ---
 
-## 📸 Скриншоты
+## 📸 Скриншоты и видео
 
 | Логин | Главная | Избранное | Создание | Фильтры | Поиск | Подробная информация | Push уведомление |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Логин](screenshots/login.jpg) | ![Главная](screenshots/main.jpg) | ![Избранное](screenshots/favourite.jpg) | ![Создание](screenshots/create.jpg) | ![Фильтры](screenshots/filter.jpg) | ![Поиск](screenshots/search.jpg) | ![Подробная информация](screenshots/info.jpg) | ![Push уведомление](screenshots/push.jpg) |
+
+https://github.com/user-attachments/assets/ebf14310-63de-4d3b-972c-8cdff1415b4e
 
 ---
 
